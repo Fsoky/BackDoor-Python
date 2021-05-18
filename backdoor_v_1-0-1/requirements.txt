@@ -1,0 +1,5 @@
+prettytable==2.1.0
+vidstream==0.0.14
+numpy==1.17.4
+PyAutoGUI==0.9.48
+colorama==0.4.1
